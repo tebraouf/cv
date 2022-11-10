@@ -1,0 +1,35 @@
+
+  body {
+     background-color:#d7fffc;
+  }
+  hr {
+    background-color: none;
+    border: none;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: thick;
+    height: 0px;
+    width: 10%;
+  }
+h1 {
+  color: #66BFBF;
+  font-size: 50px;
+}
+h3 {
+  color: #66BFBF;
+  text-align: center;
+  font-family: Papyrus, fantasy;
+  font-size: 40px;
+}
+p {
+  font-size: 25px;
+}
+ul {
+  font-size: 20px;
+}
+ol {
+  font-size: 20px;
+}
+td {
+  font-size: 20px;
+}
